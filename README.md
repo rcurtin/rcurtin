@@ -18,10 +18,14 @@ libraries.
 
 <br />
 
-<p align="center"> <b><a href="https://www.ratml.org">www.ratml.org</a></b> -- my
-website if for some strange reason you want to know more about me</p>
-
+<center>
+<img src="https://www.ratml.org/ratml-web-small.png" />
 <br />
+<b><a href="https://www.ratml.org">www.ratml.org</a></b>
+<br />
+my website, if for some strange reason you want to know more about me
+<br />
+</center>
 
 <p align="center"> <img
 src=https://github-readme-stats.vercel.app/api?username=rcurtin&show_icons=true
