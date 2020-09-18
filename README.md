@@ -19,7 +19,7 @@ libraries.
 <br />
 
 <p align="center">
-<img src="https://www.ratml.org/ratml-web-small.png" />
+<img src="https://www.ratml.org/ratml-web-inverted-small.png" />
 <br />
 <b><a href="https://www.ratml.org">www.ratml.org</a></b>
 <br />
