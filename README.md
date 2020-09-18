@@ -18,7 +18,7 @@ libraries.
 
 <br />
 
-<p align="center"> <a href="https://www.ratml.org">www.ratml.org</a> -- my
+<p align="center"> <b><a href="https://www.ratml.org">www.ratml.org</a></b> -- my
 website if for some strange reason you want to know more about me</p>
 
 <br />
