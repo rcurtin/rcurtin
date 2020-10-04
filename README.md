@@ -28,5 +28,5 @@ my website, if for some strange reason you want to know more about me
 </p>
 
 <p align="center"> <img
-src=https://github-readme-stats.vercel.app/api?username=rcurtin&show_icons=true
+src=https://github-readme-stats.vercel.app/api?username=rcurtin&show_icons=true&hide_rank=true
 alt=rcurtin /> </p>
