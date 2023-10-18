@@ -7,7 +7,7 @@
 - 💻 I spend my time writing the <a
   href="https://github.com/mlpack/mlpack">mlpack</a> and <a
 href="https://github.com/mlpack/ensmallen">ensmallen</a> C++ machine learning
-libraries.
+libraries, and the <a href="https://coot.sourceforge.io">bandicoot</a> GPU linear algebra library.
 
 - 💬 Ask me about **how many things I've blown up in Kerbal Space Program**.
 
@@ -23,6 +23,6 @@ libraries.
 <br />
 <b><a href="https://www.ratml.org">www.ratml.org</a></b>
 <br />
-my website, if for some strange reason you want to know more about me
+my website, if you want to know more about me or read about strange projects I do
 <br />
 </p>
